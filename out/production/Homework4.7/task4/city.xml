@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cities>
+    <city size="big">
+        <cityName>Kiev</cityName>
+        <streetName>Vasylkivska</streetName>
+        <houseNumber>1</houseNumber>
+    </city>
+    <city size="big">
+        <cityName>Kharkiv</cityName>
+        <streetName>Shevchenkа</streetName>
+        <houseNumber>2</houseNumber>
+    </city>
+    <city size="big">
+        <cityName>Odesa</cityName>
+        <streetName>Deribasivska</streetName>
+        <houseNumber>3</houseNumber>
+    </city>
+</cities>
